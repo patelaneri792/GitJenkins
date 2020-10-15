@@ -8,5 +8,6 @@ from main to feature1
 stash change
 stash pop
 feature2 commit
+change message
 
 
